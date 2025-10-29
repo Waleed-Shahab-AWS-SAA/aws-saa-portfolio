@@ -1,0 +1,71 @@
+# ☁️ AWS Solutions Architect Associate Portfolio
+
+Hi, I’m **Waleed Shahab** — a passionate Cloud Enthusiast on a journey to master AWS.  
+This portfolio showcases **10 real-world AWS projects** I’ve built while preparing for the **AWS Solutions Architect Associate (SAA)** certification.  
+Each project is fully hands-on — designed, deployed, and documented step-by-step.
+
+---
+
+## 🧩 Projects Overview
+
+| # | Project Title | Key AWS Services | Description |
+|---|----------------|------------------|--------------|
+| 1 | **Static Website Hosting on S3 + CloudFront** | S3, CloudFront, Route 53 | Hosted a global static website with CDN caching and versioning. |
+| 2 | **WordPress Blog (EC2 + RDS)** | EC2, RDS, VPC, IAM | Deployed WordPress using EC2 and RDS in a secure network. |
+| 3 | **3-Tier Web Application Architecture** | EC2, ELB, Auto Scaling, RDS | Built a scalable, resilient 3-tier web app. |
+| 4 | **Serverless Resume Website** | S3, API Gateway, Lambda, DynamoDB | Fully serverless website with dynamic data handling. |
+| 5 | **Event-Driven Architecture** | S3, SNS, Lambda, DynamoDB | Triggered workflows on file uploads using serverless components. |
+| 6 | **Backup & Disaster Recovery Simulation** | S3, AWS Backup, Cross-Region Replication | Demonstrated DR strategy and regional failover. |
+| 7 | **Multi-Region High Availability Web App** | EC2, Route 53, Load Balancer | Built a highly available, fault-tolerant setup across regions. |
+| 8 | **CI/CD Pipeline on AWS** | CodeCommit, CodeBuild, CodeDeploy, CodePipeline | Automated deployments for a sample web app. |
+| 9 | **Infrastructure as Code (IaC)** | CloudFormation, Terraform | Automated provisioning with reusable IaC templates. |
+| 10 | **Cost Optimization Dashboard** | AWS Budgets, SNS, CloudWatch | Monitored cost usage and created budget alerts. |
+
+---
+
+## 🧱 Architecture Diagrams
+
+Each project includes an architecture diagram to visualize AWS components and flow.  
+*(Coming soon to this repo — diagrams will be uploaded in `/diagrams/` folder.)*
+
+---
+
+## 📘 Portfolio PDF
+Download the full portfolio here:  
+➡️ [Waleed_Shahab_AWS_SAA_Portfolio.pdf](./Waleed_Shahab_AWS_SAA_Portfolio.pdf)
+
+This PDF contains project summaries, services used, and architecture highlights in a professional layout.
+
+---
+
+## 🧠 Skills Gained
+
+- Compute (EC2, Lambda, Auto Scaling)
+- Storage (S3, EBS, EFS)
+- Networking (VPC, Route 53, CloudFront)
+- Databases (RDS, DynamoDB)
+- Monitoring (CloudWatch, SNS)
+- Automation (CodePipeline, IaC, Terraform)
+- Security & IAM Best Practices
+- Cost Optimization
+
+---
+
+## 🚀 What’s Next?
+
+I’m continuing to explore:
+- AWS DevOps Professional–level architectures
+- Multi-account AWS Organization setups
+- Serverless microservices and API design
+
+---
+
+## 💬 Connect with Me
+Let’s talk Cloud ☁️  
+🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+📧 **waleed.shahab@example.com**
+
+---
+
+> *“Learning AWS isn’t about memorizing services — it’s about understanding how to design solutions that scale, stay resilient, and save cost.”*  
+> — *Waleed Shahab*
